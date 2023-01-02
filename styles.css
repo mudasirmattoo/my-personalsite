@@ -112,34 +112,39 @@ a:hover{
   float:right;
   margin-left:0;
 }
-.skillsjs{
+.skillsboot{
   width: 25%;
   float:left;
   margin-right: 30px;
 }
+.skillsjs{
+  width: 25%;
+  float:right;
+  margin-right: 30px;
+}
 .skillsjava{
   width:25%;
-  float:right;
+  float:left;
   margin-right:30px;
 }
 .skillsreact{
   width:25%;
-  float:left;
+  float:right;
   margin-right:30px;
 }
 .skillsnodejs{
   width:25%;
-  float:right;
+  float:left;
   margin-right:30px;
 }
 .skillsc{
   width:25%;
-  float:left;
+  float:right;
   margin-right:30px;
 }
 .skillsimgc{
   width:25%;
-  float:right;
+  float:left;
   margin-left:30px;
 }
 
