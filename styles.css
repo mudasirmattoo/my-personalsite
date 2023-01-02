@@ -101,6 +101,7 @@ a:hover{
   left: 300px;
   bottom: 300px;
 }
+
 .skillshtml{
   width: 25%;
   float:left;
@@ -110,6 +111,26 @@ a:hover{
   width: 25%;
   float:right;
   margin-left:0;
+}
+.skillsjs{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.skillsjava{
+  width:25%;
+  float:right;
+  margin-right:30px;
+}
+.skillsreact{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.skillsnodejs{
+  width:25%;
+  float:right;
+  margin-right:30px;
 }
 .skillsc{
   width:25%;
@@ -121,11 +142,7 @@ a:hover{
   float:right;
   margin-left:30px;
 }
-.skillsjava{
-  width:25%;
-  float:left;
-  margin-right:30px;
-}
+
 .footer-link{
   color:#11999E;
   word-spacing:2em;
